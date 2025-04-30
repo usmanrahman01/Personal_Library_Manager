@@ -1,0 +1,26 @@
+The Great Gatsby,F. Scott Fitzgerald,1925,Fiction,True
+1984,George Orwell,1949,Dystopian,False
+Harry Potter and the Sorcerer's Stone,J.K. Rowling,1997,Fantasy,True
+The Hobbit,J.R.R. Tolkien,1937,Fantasy,False
+To Kill a Mockingbird,Harper Lee,1960,Classic,True
+Pride and Prejudice,Jane Austen,1813,Romance,True
+The Catcher in the Rye,J.D. Salinger,1951,Fiction,False
+Moby-Dick,Herman Melville,1851,Adventure,False
+War and Peace,Leo Tolstoy,1869,Historical,False
+The Lord of the Rings,J.R.R. Tolkien,1954,Fantasy,True
+Brave New World,Aldous Huxley,1932,Dystopian,False
+Crime and Punishment,Fyodor Dostoevsky,1866,Classic,False
+The Odyssey,Homer,-800,Mythology,True
+The Divine Comedy,Dante Alighieri,1320,Poetry,False
+Les Misérables,Victor Hugo,1862,Historical,False
+Frankenstein,Mary Shelley,1818,Horror,True
+Dracula,Bram Stoker,1897,Horror,False
+The Alchemist,Paulo Coelho,1988,Philosophical,True
+Don Quixote,Miguel de Cervantes,1605,Adventure,False
+The Chronicles of Narnia,C.S. Lewis,1950,Fantasy,True
+Wuthering Heights,Emily Brontë,1847,Gothic,False
+The Picture of Dorian Gray,Oscar Wilde,1890,Fiction,True
+A Tale of Two Cities,Charles Dickens,1859,Historical,True
+Fahrenheit 451,Ray Bradbury,1953,Dystopian,False
+The Book Thief,Markus Zusak,2005,Historical,False
+One Hundred Years of Solitude,Gabriel García Márquez,1967,Magical Realism,True
